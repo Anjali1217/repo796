@@ -7,7 +7,11 @@ class custId
     {
         return CId;
     }
+
     public int setCustId()
+
+    public String getCustId()
+
     {
         return CId;
     }
