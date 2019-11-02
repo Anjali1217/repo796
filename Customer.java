@@ -16,6 +16,7 @@ public String getCustId()
 {
 return CId;
 }
+@controller
 public int setCustId()
 {
 return CId;
