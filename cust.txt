@@ -1,0 +1,5 @@
+class Cust
+{
+int custno;
+String custname;
+}
