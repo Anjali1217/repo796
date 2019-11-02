@@ -5,6 +5,7 @@ class custId
     public void getCustId()
     {
 CId=1000;
+Custname=sdjhdjfh;
         return CId;
     }
     public int getCustId()
