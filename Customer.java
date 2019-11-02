@@ -1,11 +1,11 @@
 class custId
 {
-    int custId;
+    int cId;
     String CustName;
     
     public int getCustId()
     {
-        return CustId;
+        return CId;
     }
     }
     
