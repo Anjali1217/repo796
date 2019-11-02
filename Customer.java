@@ -2,7 +2,7 @@ class custId
 {
     int cId;
     String CustName;
-
+     String address;
     
     public int getCustId()
     {
