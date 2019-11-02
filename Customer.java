@@ -14,6 +14,8 @@ public String getCustId()
 {
 return CId;
 }
-
+public int setCustId()
+{
+return CId;
     }
     
