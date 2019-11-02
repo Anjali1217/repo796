@@ -7,5 +7,9 @@ class custId
     {
         return CId;
     }
+    public String getCustId()
+    {
+        return CId;
+    }
     }
     
