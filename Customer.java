@@ -4,6 +4,7 @@ class custId
     String CustName;
     public void getCustId()
     {
+CId=1000;
         return CId;
     }
     public int getCustId()
