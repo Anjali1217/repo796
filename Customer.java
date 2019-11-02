@@ -7,5 +7,9 @@ class custId
     {
         return CId;
     }
+    public int setCustId()
+    {
+        return CId;
+    }
     }
     
